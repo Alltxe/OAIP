@@ -1,5 +1,5 @@
 ﻿program z10;
-const N = 10;
+const N = 20;
 var i,j,c,tmp:integer;
 A:array [1..N] of integer;
 Begin
